@@ -1,58 +1,40 @@
 # Basic-Ecommerce-Site
 
-Overview
+## Overview
 
 This is a simple Ecommerce web application where users can add products to their shopping cart and proceed to checkout. The app dynamically updates the cart and total price using JavaScript.
 
-Features
+## Features
 
-Display a list of products with their prices.
+1. Display a list of products with their prices.
 
-Users can add products to the shopping cart.
+2. Users can add products to the shopping cart.
 
-Shopping cart dynamically updates the total price.
+3. Shopping cart dynamically updates the total price.
 
-Checkout button allows users to complete their purchase.
+4. Checkout button allows users to complete their purchase.
 
-Styled using CSS for a clean, dark-themed interface.
+5. Styled using CSS for a clean, dark-themed interface.
 
-Technologies Used
+## Technologies Used
 
-HTML for structuring the webpage.
+- HTML for structuring the webpage.
 
-CSS for styling.
+- CSS for styling.
 
-JavaScript for handling cart functionality.
+- JavaScript for handling cart functionality.
 
-How to Use
+## How to Use
 
-Open index.html in a browser.
+- Open index.html in a browser.
 
-Click on the "Add to Cart" button for any product.
+- Click on the "Add to Cart" button for any product.
 
-The product will be added to the cart, and the total price will be updated.
+- The product will be added to the cart, and the total price will be updated.
 
-Click "Checkout" to clear the cart and complete the purchase.
+- Click "Checkout" to clear the cart and complete the purchase.
 
-File Structure
 
-Ecommerce-App/
-│── index.html  (Main HTML file)
-│── style.css   (CSS for styling)
-│── script.js   (JavaScript for cart functionality)
+## Author
 
-Screenshots
-
-Add screenshots of the UI here (optional)
-
-Future Improvements
-
-Add more products dynamically.
-
-Implement local storage to save cart items.
-
-Integrate a backend for real checkout functionality.
-
-Author
-
-Your Name (Replace with your name or GitHub profile link)
+Amok Singh Mehta
